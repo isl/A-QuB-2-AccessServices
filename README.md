@@ -1,4 +1,4 @@
-# A-QuB-2-AccessServices
+# A-QuB AccessServices
 
 Set of services for accessing a Virtuoso triplestore. Supported services:
 - running SPARQL queries ('QueryServices')
